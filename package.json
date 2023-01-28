@@ -1,0 +1,21 @@
+{
+  "name": "clearpoint_automation",
+  "version": "1.0.0",
+  "description": "This is an API automation framework built using supertest",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shirishpathania/ClearPoint_Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shirishpathania/ClearPoint_Automation/issues"
+  },
+  "homepage": "https://github.com/shirishpathania/ClearPoint_Automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
